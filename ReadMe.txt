@@ -33,5 +33,5 @@ From pythonanywhere.com:
 We are scheduling a systems upgrade on Thursday 21st December 2017 (2017-12-21) at 06:00 AM UTC. We expect approximately 20 min of downtime.
 Try not to use the site during that time.
 
-Angular site is hosted on https://hywang39.github.io/sampleAppAngular/
+Angular site is hosted on https://sampleappangular.firebaseapp.com/
 
